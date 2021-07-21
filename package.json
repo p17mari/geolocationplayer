@@ -1,0 +1,23 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test1",
+    "testing",
+    "geolocation"
+  ],
+  "author": "ArtificialDumbass",
+  "license": "MIT",
+  "dependencies": {
+    "api": "^3.2.6",
+    "audio": "^1.2.0",
+    "express": "^4.17.1",
+    "howler": "^2.2.3",
+    "web": "0.0.2"
+  }
+}

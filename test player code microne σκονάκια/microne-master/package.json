@@ -1,0 +1,28 @@
+{
+  "name": "microne",
+  "version": "0.2.0",
+  "description": "A minimalistic music player",
+  "main": "microne.js",
+  "scripts": {
+    "test": "standard",
+    "start": "budo -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodedninja/microne.git"
+  },
+  "keywords": [
+    "music",
+    "music-player"
+  ],
+  "author": "kodedninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodedninja/microne/issues"
+  },
+  "homepage": "https://github.com/kodedninja/microne#readme",
+  "devDependencies": {
+    "budo": "^11.6.2",
+    "standard": "^12.0.1"
+  }
+}
