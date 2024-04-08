@@ -1,9 +1,11 @@
+# Welcome to Geolocation Player!
+
 This is an HTML project in which depending on the user's location it changes the audio sample in the player based on a specified list.
 
 Using Howler to make a basic audio file to make the basic UI.
 
 
-#Description for Howler.js
+## Description for Howler.js
 
 This example displays how to construct a basic audio player using howler.js as the engine powering it. The only outside framework being used is SiriWave.js to provide some visual sugar.
 
